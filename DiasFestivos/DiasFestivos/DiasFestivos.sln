@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiasFestivos.Core", "DiasFestivos.Core\DiasFestivos.Core.csproj", "{DD3F7B03-807C-4B59-8FB2-9040861791B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiasFestivos.Dominio", "DiasFestivos.Dominio\DiasFestivos.Dominio.csproj", "{BE22BB9B-5269-4E4B-A6FE-104894313779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3F7B03-807C-4B59-8FB2-9040861791B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3F7B03-807C-4B59-8FB2-9040861791B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3F7B03-807C-4B59-8FB2-9040861791B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3F7B03-807C-4B59-8FB2-9040861791B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE22BB9B-5269-4E4B-A6FE-104894313779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE22BB9B-5269-4E4B-A6FE-104894313779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE22BB9B-5269-4E4B-A6FE-104894313779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE22BB9B-5269-4E4B-A6FE-104894313779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93F26872-933C-43CE-AA10-8DE043663FAE}
+	EndGlobalSection
+EndGlobal
